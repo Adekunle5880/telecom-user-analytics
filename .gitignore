@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.venv
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+
+# Build directories
+build/
+dist/
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
